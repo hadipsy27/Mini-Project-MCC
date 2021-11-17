@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package mini.project.mcc;
+package Main;
 
 /**
  *
  * @author akhma
  */
-public class MiniProjectMCC {
+public class MainProject {
 
     /**
      * @param args the command line arguments
